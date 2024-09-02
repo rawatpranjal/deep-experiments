@@ -1,0 +1,10 @@
+,Abs Bias (% of True ATE) (DGP Complex),% Variance Reduction (DGP Complex),Abs Bias (% of True ATE) (DGP Simple),% Variance Reduction (DGP Simple)
+Bivariate OLS,0.01,0.0,0.08,0.0
+Multivariate OLS,0.02,-9.99,0.04,56.98
+Interaction OLS,0.09,8.13,0.01,58.18
+S-Learner,1.58,60.87,3.48,80.12
+T-Learner,1.1,60.19,0.93,82.91
+X-Learner,1.51,65.14,1.32,87.09
+R-Learner,1.8,37.07,1.88,87.98
+I-Learner,0.11,29.83,0.03,86.25
+DR-Learner,0.02,64.29,0.0,84.33
